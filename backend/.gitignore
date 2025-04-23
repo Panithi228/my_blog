@@ -1,0 +1,21 @@
+# Node modules (library ที่ติดตั้งผ่าน npm)
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv config (มีรหัสผ่าน/ข้อมูลลับ)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code config (ถ้าไม่อยากแชร์)
+.vscode/
+
+# build หรือ dist (ถ้ามีการ build บาง script)
+dist/
+build/
